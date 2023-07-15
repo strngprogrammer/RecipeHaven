@@ -22,7 +22,7 @@ Recipe Haven is a Flutter-based mobile app that allows users to search and disco
 - Responsive Design: Ensuring the app layout adapts to different screen sizes.
 
 ## Full tutorial in youtube
-![PlayList]([screenshots/photo_2023-07-15_18-57-07.jpg](https://youtube.com/playlist?list=PLWp3_-ABH006Ny2WCEEaptMY62mc_h7F4))
+[PlayList]([screenshots/photo_2023-07-15_18-57-07.jpg](https://youtube.com/playlist?list=PLWp3_-ABH006Ny2WCEEaptMY62mc_h7F4))
 
 ## Screenshots
 
