@@ -24,15 +24,6 @@ Recipe Haven is a Flutter-based mobile app that allows users to search and disco
 ## Full tutorial in youtube
 [PlayList](https://youtube.com/playlist?list=PLWp3_-ABH006Ny2WCEEaptMY62mc_h7F4)
 
-## Screenshots
-<div style="height: 150px;">
-  ![Home](screenshots/photo_2023-07-15_18-57-07.jpg)
-</div>
-![Categories](screenshots/photo_2023-07-15_18-57-13.jpg)
-![Recipes](screenshots/photo_2023-07-15_18-57-19.jpg)
-![Recipe Page](screenshots/photo_2023-07-15_18-57-27.jpg)
-![settings](screenshots/photo_2023-07-15_18-57-29.jpg)
-![light mode & other settings](screenshots/photo_2023-07-15_18-57-31.jpg)
 
 ## Getting Started
 
@@ -44,6 +35,20 @@ To run the Recipe Haven app on your local machine, make sure you have Flutter an
 4. Run the app: `flutter run`
 
 Feel free to explore and modify the app code to suit your needs. Contributions to Recipe Haven are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request. Let's make Recipe Haven even better together!
+
+## Screenshots
+
+![Home](screenshots/photo_2023-07-15_18-57-07.jpg)
+
+![Categories](screenshots/photo_2023-07-15_18-57-13.jpg)
+
+![Recipes](screenshots/photo_2023-07-15_18-57-19.jpg)
+
+![Recipe Page](screenshots/photo_2023-07-15_18-57-27.jpg)
+
+![settings](screenshots/photo_2023-07-15_18-57-29.jpg)
+
+![light mode & other settings](screenshots/photo_2023-07-15_18-57-31.jpg)
 
 ## License
 
