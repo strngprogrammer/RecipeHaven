@@ -21,6 +21,18 @@ Recipe Haven is a Flutter-based mobile app that allows users to search and disco
 - API Integration: Integration with recipe data APIs to fetch recipe information.
 - Responsive Design: Ensuring the app layout adapts to different screen sizes.
 
+## Full tutorial in youtube
+![PlayList]([screenshots/photo_2023-07-15_18-57-07.jpg](https://youtube.com/playlist?list=PLWp3_-ABH006Ny2WCEEaptMY62mc_h7F4))
+
+## Screenshots
+
+![Home](screenshots/photo_2023-07-15_18-57-07.jpg)
+![Categories](screenshots/photo_2023-07-15_18-57-13.jpg)
+![Recipes](screenshots/photo_2023-07-15_18-57-19.jpg)
+![Recipe Page](screenshots/photo_2023-07-15_18-57-27.jpg)
+![settings](screenshots/photo_2023-07-15_18-57-29.jpg)
+![light mode & other settings](screenshots/photo_2023-07-15_18-57-31.jpg)
+
 ## Getting Started
 
 To run the Recipe Haven app on your local machine, make sure you have Flutter and Dart installed. Then, follow these steps:
