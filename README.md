@@ -26,7 +26,7 @@ Recipe Haven is a Flutter-based mobile app that allows users to search and disco
 
 ## Screenshots
 <div style="height: 150px;">
-![Home](screenshots/photo_2023-07-15_18-57-07.jpg)
+  ![Home](screenshots/photo_2023-07-15_18-57-07.jpg)
 </div>
 ![Categories](screenshots/photo_2023-07-15_18-57-13.jpg)
 ![Recipes](screenshots/photo_2023-07-15_18-57-19.jpg)
