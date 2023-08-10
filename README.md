@@ -53,3 +53,7 @@ Feel free to explore and modify the app code to suit your needs. Contributions t
 ## License
 
 Recipe Haven is released under the [MIT License](LICENSE).
+
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/strngprogrammer/RecipeHaven"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@RecipeHaven?theme=rule34" /></a>
